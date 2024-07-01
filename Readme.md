@@ -100,3 +100,15 @@ As 5G NSA uses 4G cell for attachment, SIB are transmitted on a 4G cell and this
 ## Supported bands
 
 A number of bands are already supported by free5GRAN. New bands can be added in `free5GRAN/lib/variables/common_structures`
+
+## MIMO development 
+
+The source code for the paper 
+
+Karen Caloyannis, Anaïs Vergne, Philippe Martins. "Software Defined
+Radio platform to evaluate processing latency of 5G NR MIMO
+functions". *3rd ACM Workshop on 5G and Beyond Network
+Measurements, Modeling, and Use Cases (5G-MeMU)*, Sep 2023, New York, United States. ⟨10.1145/3609382.3610512⟩. ⟨hal-04192756⟩
+Available online : [https://hal.science/hal-04192756] 
+
+is under the ```mimo``` directory.
