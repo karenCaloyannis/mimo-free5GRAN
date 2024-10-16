@@ -28,8 +28,6 @@ The source code in the following directories is licensed under *GPLv3* terms :
 - ```lib/utils```
 - ```plots_exports/```
 
-License terms for *GPLv3* license are in the current directory. 
-
 The source code from the following directories or files is licensed under *Apache 2.0* license 
 terms and reuse code from the *free5GRAN* library : 
 - ```lib/variables```
